@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appMotoGuia</string>
+    <string name="usuarios">Usuario</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+</resources>
